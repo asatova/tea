@@ -436,6 +436,11 @@ position: absolute;
 .footer__social-link{
     display: grid;
 }
+
+.prioritise__text{
+    margin-bottom: 10px;
+}
+
 /*responsive settings*/
 
 
